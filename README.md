@@ -7,3 +7,4 @@
 ## Brooklyn Noine Noine
 ## cool cool cool cool
 ## Rip Kobe
+## Rip Kobe and Gianna
