@@ -23,3 +23,6 @@ console.log('yeah boi team pr')
 console.log('yeah boi team pr1')
 
 console.log('thats not even a word')
+for(let i = 0 ; i < 6; i++){
+  console.log(i);
+}
